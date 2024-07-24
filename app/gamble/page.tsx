@@ -53,9 +53,9 @@ const Gamble = () => {
   };
 
   return (
-    <div className='mt-2 vstack items-center container'>
+    <div className='mt-2 items-center container'>
       <Roulette roulette={roulette} />
-      <div className='hstack'>
+      <div>
         <button type='button' onClick={onStart}>
           Start
         </button>

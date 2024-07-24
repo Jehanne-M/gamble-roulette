@@ -26,7 +26,7 @@
         "removeDir": false,
         "removeFile": false,
         "renameFile": false,
-        "scope": ["C:\\temp"],
+        "scope": [""],
         "writeFile": true
       }
     },
